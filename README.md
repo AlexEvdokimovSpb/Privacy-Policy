@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy applies to the launch history app (hereby referred to as "Application") for mobile devices that was created by Alexander Evdokimov (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the "Pipes and water" app (hereby referred to as "Application") for mobile devices that was created by Alexander Evdokimov (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 ## Information Collection and Use
 The Application collects information when you download and use it. This information may include information such as
